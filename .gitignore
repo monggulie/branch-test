@@ -1,0 +1,7 @@
+# Publish only reviewed lecture practice files.
+*
+!.gitignore
+!README.md
+!LAB9.md
+!edition.txt
+!new_feature.txt
